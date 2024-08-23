@@ -22,13 +22,6 @@
   margin-bottom: 20px;
 }
 
-.logo {
-  display: block;
-  margin: 0 auto 20px;
-  max-width: 100px; /* Adjust as needed */
-  height: auto; /* Adjusts height proportionally */
-}
-
 
 .login-form .form-group {
   margin-bottom: 15px;
